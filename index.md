@@ -279,8 +279,8 @@ __BAD:__
 
 ```kotlin
 if (someTest)
-  doSomething()
-if (someTest) doSomethingElse()
+  doSomething();
+if (someTest) doSomethingElse();
 ```
 
 __GOOD:__
